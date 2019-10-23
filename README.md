@@ -2,7 +2,7 @@
 ---
 | Week | Description |
 | ------ | ----------- |
-| Day 1  | Time and space complexity |
+|✔️ Day 1  | Time and space complexity |
 | Day 2  | Array |
 | Day 3  | Singly Linked List |
 | Day 4  | Circular Linked List |
