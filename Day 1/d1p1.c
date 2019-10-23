@@ -9,7 +9,6 @@
 
    (b) Repeat the same exercise for 100, 000  X 100, 000 matrices.
 
-   AUTHOR : SAYANTAN PAL
    DATE : 15.07.2019
 
  */
