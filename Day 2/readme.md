@@ -43,7 +43,7 @@ The added polynomial is: +67x^3+8x^4+12x^5+1x^134+2x^6
 ---
 ## Solution 2
 ---
-View the code in d1p2.c
+View the code in d2p2.c
 
 ### Output
 ---
@@ -91,7 +91,7 @@ Transposed sparse matrix is:
 ---
 ## Solution 3
 ---
-View the code in d1p3.c
+View the code in d2p3.c
 
 ### Output
 ---
