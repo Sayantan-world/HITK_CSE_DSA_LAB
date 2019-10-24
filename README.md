@@ -10,3 +10,4 @@
 |✔️ Day 6  | Sorting (Quick,Heap) |
 |✔️ Day 7  | Sorting (Improved Bubble,Insertion,Cocktail shaker,Selection) |
 |✔️ Day 8  | Searching and Stack |
+|❌ Day 9  | Queue |
