@@ -1,7 +1,7 @@
 ![Question](https://github.com/Sayantan-world/HITK_CSE_DSA_LAB/blob/master/Day%207/question.png?raw=true)
 ---
 
-## Solution 1
+## Solution 1 - Improved Bubble Sort
 ---
 View the code in improve_bubble.c
 
@@ -18,7 +18,7 @@ Count: 10
 
 ```
 ---
-## Solution 2
+## Solution 2 - Insertion Sort
 ---
 View the code in insertion.c
 
@@ -35,7 +35,7 @@ Count: 2
   
 ```
 ---
-## Solution 3
+## Solution 3 - Cocktail-shaker Sort
 ---
 View the code in cocktail.c
 
@@ -51,7 +51,7 @@ Sorted array: 1 2 3 4 5
 Count: 2  
 ```
 ---
-## Solution 4
+## Solution 4 - Selection Sort
 ---
 View the code in selection.c
 
