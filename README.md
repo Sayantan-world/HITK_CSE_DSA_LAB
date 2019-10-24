@@ -1,7 +1,7 @@
 # Data Structures and Algorithm Lab - (SEM 3)
 ---
 | Week | Description |
-| ------ | ----------- |
+| :---: | :---: |
 |✔️ Day 1  | Time and space complexity |
 |✔️ Day 2  | Array |
 |✔️ Day 3  | Singly Linked List |
